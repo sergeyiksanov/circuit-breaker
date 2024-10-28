@@ -55,4 +55,4 @@ Please make sure to update tests as appropriate.
 
 ## License
 
-[MIT](https://github.com/sergeyiksanov/circuit-breaker/LICENSE)
+[MIT](https://github.com/sergeyiksanov/circuit-breaker/blob/main/LICENSE)
