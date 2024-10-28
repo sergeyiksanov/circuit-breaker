@@ -1,1 +1,1 @@
-module circuit-breaker
+module github.com/sergeyiksanov/circuit-breaker
